@@ -5,10 +5,10 @@
  
  
 # Build Insctructions
-  Built with wxWidgets static libraries
   
+  The project as is, builds with x64 staic libraries.
   
-  Must link to libraries directory in disk
+  To build, copy wxWidgets x64 .lib files to lib/vc_x64_lib/ and use CMake as usual.
 
 
 # TODO
